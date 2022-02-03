@@ -1,0 +1,12 @@
+input{
+    width: 200px;
+    height: 20px;
+    padding: 3px;
+    margin: 5px;
+}
+input[ type="text"]{
+    border: 1px solid brown;
+}
+imput:focus{
+    background-color: grey;
+}
